@@ -1,1 +1,1 @@
-This is my first git Repositery.
+This is my first git Repository.
